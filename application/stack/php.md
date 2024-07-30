@@ -123,6 +123,7 @@ User generated content is stored at:
 * ./images
 * ./content/images/users
 * ./content/pages
+* ./content/delete
 
 In **debian-based** systems use the following command to set the right permissions in your Chevereto installation (change `/var/www/html` to reflect your path).
 
